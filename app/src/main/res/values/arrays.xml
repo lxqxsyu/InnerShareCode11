@@ -1,0 +1,7 @@
+<resources>
+    <array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </array>
+</resources>
